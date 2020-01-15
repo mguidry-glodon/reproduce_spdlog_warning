@@ -1,0 +1,11 @@
+[requires]
+spdlog/1.4.2
+
+fmt/6.0.0
+
+[generators]
+cmake
+
+[options]
+spdlog:header_only=True
+fmt:header_only=True
